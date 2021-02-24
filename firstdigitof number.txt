@@ -1,0 +1,13 @@
+public class adq
+{
+public static void main(String gd[])
+{
+//find first digit of Number
+int n=123;
+while(n>=10)
+{
+n=n/10;
+}
+System.out.println(n);
+}
+}
